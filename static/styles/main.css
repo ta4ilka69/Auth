@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(#c3ec80,#f09764);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100vw;
+    min-height: 100vh;
+}
